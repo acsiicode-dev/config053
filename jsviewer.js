@@ -276,9 +276,7 @@ window.PUZZLE_RENDER_CONFIG = window.PUZZLE_CONFIG_pz_udsbJ2437I = {
 				type: "video",
 				noPuzzleRes: !0
 			},
-			"https://act-webstatic.hoyoverse.com/puzzle/hk4e/pz_udsbJ2437I/resource/puzzle/upload/puzzle/2022/09/05/ba66fb8ed7fdd31958f79f4be1946690_7348307937863567151.png": {
-				type: "image"
-			},
+			
 			"https://act-webstatic.hoyoverse.com/puzzle/hk4e/pz_udsbJ2437I/resource/puzzle/upload/puzzle/2022/09/05/2e4d3037fc4284473e036e601830f01b_1953991429926672039.png": {
 				type: "image"
 			},
